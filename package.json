@@ -1,0 +1,10 @@
+{
+  "name": "hyperspeed-handler",
+  "version": "1.0.0",
+  "description": "A discord bot command handler",
+  "main": "index.js",
+  "repository": "https://github.com/Hyperspeed-Tech/HyperspeedHandler.git",
+  "author": "Hyperspeed Technologies",
+  "license": "MIT",
+  "private": false
+}
